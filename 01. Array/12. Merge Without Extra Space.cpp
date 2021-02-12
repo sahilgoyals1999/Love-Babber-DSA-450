@@ -5,7 +5,7 @@
 
 void merge(int a[], int b[], int n, int m) {
 	int i = n - 1, j = 0;
-	// comare last element of a with first elemennt of b
+	// compare last element of a with first elemennt of b
 	while (i >= 0 && j < m) {
 		if (a[i] > b[j]) {
 			swap(a[i], b[j]);
