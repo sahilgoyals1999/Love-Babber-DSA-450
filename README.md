@@ -8,3 +8,5 @@ All Optimize Solutions with comments except
 
 Programming Language Used: C++
 
+for more alogorithms you can visit my another repo:
+https://github.com/sahilgoyals1999/GFG-Algorithms
